@@ -18,6 +18,7 @@ randomNumber = random.randint(1,100)
 attempts = 0
 
 match choiceDifficulty:
+#Executes a specific block according to the selected option.
     case 1:
         print("Great! You have selected de easy difficulty level")
         print("Let's start the game!")

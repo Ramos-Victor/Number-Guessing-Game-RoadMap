@@ -4,7 +4,7 @@ A simple and fun console-based game developed in Python, where the player must g
 
 # About the Project
 
-This project was created for the website roadmap and also for practice:
+This project was created for the website https://roadmap.sh/projects/number-guessing-game and also for practice:
 
 Conditional logic
 

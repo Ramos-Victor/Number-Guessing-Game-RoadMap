@@ -1,12 +1,10 @@
 # Number-Guessing-Game-RoadMap
 
-🎯 Number Guessing Game — Python Mini Project
-
 A simple and fun console-based game developed in Python, where the player must guess a randomly generated number within a limited number of attempts based on the selected difficulty level.
 
-🧠 About the Project
+# About the Project
 
-This project was created to practice:
+This project was created for the website roadmap and also for practice:
 
 Conditional logic
 
@@ -21,7 +19,7 @@ Basic game mechanics in Python
 The goal of the game is to guess a number between 1 and 100.
 The player chooses a difficulty level which determines the number of allowed attempts.
 
-🕹️ How the Game Works
+# How the Game Works
 
 The program generates a random number between 1 and 100.
 
@@ -47,19 +45,20 @@ The player guesses correctly, or
 
 The attempts are over.
 
-🧩 Features
+# Features
 
-Three difficulty levels
+• Three difficulty levels
 
-Dynamic hint system
+• Dynamic hint system
 
-Attempt counter
+• Attempt counter
 
-Randomized gameplay
+• Randomized gameplay
 
-Simple and interactive CLI interface
+• Simple and interactive CLI interface
 
-🚀 How to Run the Game
+# How to Run the Game
+
 1️⃣ Requirements
 
 Python 3.10+ (required for match-case syntax)
@@ -74,18 +73,18 @@ cd Number-Guessing-Game-RoadMap
 
 python3 main.py
 
-📚 Learning Objectives
+# Learning Objectives
 
 This project helps strengthen knowledge of:
 
-random module
+• random module
 
-match-case statement
+• match-case statement
 
-Loops (for)
+• Loops (for)
 
-Conditional expressions
+• Conditional expressions
 
-User input validation
+• User input validation
 
-Game flow control
+• Game flow control

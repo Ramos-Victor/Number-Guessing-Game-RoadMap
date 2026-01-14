@@ -64,15 +64,15 @@ The attempts are over.
 Python 3.10+ (required for match-case syntax)
 
 2️⃣ Clone or download the project
-
+```bash
 git clone https://github.com/Ramos-Victor/Number-Guessing-Game-RoadMap.git
 
 cd Number-Guessing-Game-RoadMap
-
+```
 3️⃣ Run the program
-
+```bash
 python3 main.py
-
+```
 # Learning Objectives
 
 This project helps strengthen knowledge of:
